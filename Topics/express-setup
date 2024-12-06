@@ -1,0 +1,21 @@
+/* Setting up Express Application
+
+1. Install Node.js
+    - Verify using commands node-v and npm -v
+
+2. Initialize Your Project
+    npm init -y
+    
+3. Install Express.js
+    npm install express
+
+4. Create the Entry File
+    touch index.js
+
+5. Write the Basic Express App
+
+6. Run the application
+    node app.js
+
+
+*/
